@@ -1,0 +1,13 @@
+My API ID:  &APPID=25e4fc6e6b2e357a177262c7005222d0 
+
+ FULL URL:
+http://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=25e4fc6e6b2e357a177262c7005
+
+
+
+http://samples.openweathermap.org/data/2.5/weather
+
+?
+q=London,uk
+&
+appid=b1b15e88fa797225412429c1c50c122a1
